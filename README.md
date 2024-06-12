@@ -25,5 +25,5 @@ yescoin bot auto claim/tap https://t.me/theYescoin_bot
 2. Go to Settings - Advanced - Experimental settings - Enable webview inspecting
 3. Open bot
 4. Press F12 or right click then select inspect element
-5. Go to Application tab - Session storage - Select yescoin - Copy the ''' tgWebAppPlatform=xxxhash%3D5224e316fde50b1dcf50a059229b4xxxx '''
+5. Go to Application tab - Session storage - Select yescoin - Copy the ```tgWebAppPlatform=xxxhash%3D5224e316fde50b1dcf50a059229b4xxxx```
 6. Separate query data with newline (for multiple account)
